@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # AIMS-mini
 
 Ứng dụng mẫu cho các bài thực hành Quản lý cấu hình phần mềm – IT3180.
