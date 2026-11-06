@@ -1,4 +1,4 @@
-LAB 01 ANSWERS - Phạm Ngọc Thành - 202416354
+LAB 02 ANSWERS - Phạm Ngọc Thành - 202416354
 
 ## 1. Vì sao phải đồng bộ nhánh với `master` trước khi gửi hoặc merge Pull Request?
 
